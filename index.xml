@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ywheel</title>
+    <link>http://www.ywheel.com/</link>
+    <description>Recent content on ywheel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Sep 2016 17:23:22 +0800</lastBuildDate>
+    <atom:link href="http://www.ywheel.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://www.ywheel.com/about/about/</link>
+      <pubDate>Sun, 04 Sep 2016 17:23:22 +0800</pubDate>
+      
+      <guid>http://www.ywheel.com/about/about/</guid>
+      <description>&lt;p&gt;My name is ywheel, I&amp;rsquo;m a programmer. Please view my &lt;a href=&#34;http://blog.ywheel.cn&#34;&gt;blog&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
